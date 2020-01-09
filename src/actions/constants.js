@@ -1,0 +1,7 @@
+export const ADD_PARTNER = 'ADD_PARTNER'
+export const EDIT_PARTNER = 'EDIT_PARTNER'
+export const REMOVE_PARTNER = 'REMOVE_PARTNER'
+export const ADD_MEAL = 'ADD_MEAL'
+export const EDIT_MEAL = 'EDIT_MEAL'
+export const REMOVE_MEAL = 'REMOVE_MEAL'
+export const SET_MEALS = 'SET_MEALS'

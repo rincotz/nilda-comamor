@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Header correctly 1`] = `
+<nav>
+  <header>
+    <Link
+      replace={false}
+      to="/"
+    >
+      .comAmor
+    </Link>
+  </header>
+  <ul>
+    <li>
+      <Link
+        replace={false}
+        to="/sobre"
+      >
+        Quem somos
+      </Link>
+    </li>
+    <li>
+      <Link
+        replace={false}
+        to="/carreiras"
+      >
+        Carreiras
+      </Link>
+    </li>
+    <li>
+      <Link
+        replace={false}
+        to="/ajuda"
+      >
+        Ajuda
+      </Link>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <Link
+        replace={false}
+        to="/cozinhando"
+      >
+        Cozinhando
+      </Link>
+    </li>
+    <li>
+      <Link
+        replace={false}
+        to="/cadastro"
+      >
+        Cadastro
+      </Link>
+    </li>
+    <li>
+      <Link
+        replace={false}
+        to="/cozinhando/porque"
+      >
+        Por que cozinhar
+      </Link>
+    </li>
+    <li>
+      <Link
+        replace={false}
+        to="/cozinhando/hospitalidade"
+      >
+        Hospitalidade
+      </Link>
+    </li>
+    <li>
+      <Link
+        replace={false}
+        to="/cozinhando/responsabilidade"
+      >
+        Cozinhando com responsabilidade
+      </Link>
+    </li>
+  </ul>
+</nav>
+`;

@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render EditMealPage correctly 1`] = `
+<div>
+  <MealForm
+    meal={
+      Object {
+        "available": 7,
+        "courrier": true,
+        "courrierEnd": 0,
+        "courrierStart": 0,
+        "description": "espaghetti ao molho de tomates",
+        "frozen": false,
+        "id": "3",
+        "location": 2,
+        "name": "macarronada",
+        "pickUp": false,
+        "pickUpEnd": undefined,
+        "pickUpStart": undefined,
+        "picture": "",
+        "price": 800,
+        "table": false,
+        "tableEnd": undefined,
+        "tableStart": undefined,
+      }
+    }
+    onSubmit={[Function]}
+  />
+  <button
+    onClick={[Function]}
+  >
+    Remover
+  </button>
+</div>
+`;

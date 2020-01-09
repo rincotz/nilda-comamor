@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render AddPartnerPage correctly 1`] = `
+<div>
+  <h1>
+    Cadastre seu prato
+  </h1>
+  <MealForm
+    onSubmit={[Function]}
+  />
+</div>
+`;
