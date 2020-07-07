@@ -36,7 +36,7 @@
     "moment": "^2.24.0",
     "node-sass": "^4.11.0",
     "normalize.css": "7.0.0",
-    "npm": "6.9.0",
+    "npm": "6.14.6",
     "raf": "3.3.2",
     "rc-time-picker": "^3.6.4",
     "react": "^16.8.6",
